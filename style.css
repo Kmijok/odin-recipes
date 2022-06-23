@@ -3,6 +3,11 @@ img {
     width: auto;
 }
 
+.sandwich{
+    height: 250px;
+    width: auto;
+}
+
 h1 {
     text-align: center;
     font-family: Verdana, sans-serif;
