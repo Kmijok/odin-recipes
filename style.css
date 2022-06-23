@@ -8,3 +8,11 @@ h1 {
     font-family: Verdana, sans-serif;
     color: red;
 }
+
+.last {
+    padding-bottom: 40px;
+}
+
+button {
+    text-align: left;
+}
